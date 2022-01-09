@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BirthdayGreed</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="Enter_the_name">enter the name</string>
+    <string name="name">Name</string>
+    <string name="creat_birthday_card">Creat Birthday Card</string>
+    <string name="inpt_hint_text">ramesh</string>
+</resources>
